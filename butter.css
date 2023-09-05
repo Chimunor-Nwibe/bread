@@ -1,0 +1,13 @@
+h1{color:rgb(177, 177, 177);
+    background-color: rgb(27, 27, 27);
+    text-decoration: underline;text-align:center;}
+body{color:rgb(27, 27, 27);background-color: rgb(11, 11, 11)}
+ul{background-color:rgb(27, 27, 27);color:rgb(177, 177, 177)
+;border: 3px solid rgb(97, 96, 96);}
+h2{text-decoration: underline;} 
+form input label {color: rgb(65, 63, 63);
+    background-color:rgb( 27, 27, 27);
+    text-decoration: underline;text-orientation: sideways-right  upright}  
+img{height:300px;width: 200px}
+section>img{height:300px;width:400px; }
+.Pig{background-image:image();} 
